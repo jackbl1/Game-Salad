@@ -1,6 +1,6 @@
 # voogasalad
 ## A Platform Game Authoring Environment and Player
-Bilva Sanaba, Henry Taylor, Jack Bloomfield, Jacob Weiss, Justin Yang, Joshua Kopen, Jonathan Rub, Belal Taher, and Hamsa Vardhaan
+Bilva Sanaba, Henry Taylor, Jack Bloomfeld, Jacob Weiss, Justin Yang, Joshua Kopen, Jonathan Rub, Belal Taher, and Hamsa Vardhaan
 
 
 ## Get Started
